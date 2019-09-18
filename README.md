@@ -34,7 +34,7 @@ Otros:
 ## Material de Apoyo
 * [PIC16F877 User Manual](http://ww1.microchip.com/downloads/en/DeviceDoc/30292D.pdf)
 
-#Actividades para Septiembre - Diciembre 2019
+# Actividades para Septiembre - Diciembre 2019
 ## Actividad 1
 - En caso de no tener una cuenta previa, registrarse en [GitHub](https://github.com/).
 - una vez registrado solicitar acceso a este repositorio.
