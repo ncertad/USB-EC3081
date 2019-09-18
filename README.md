@@ -38,6 +38,8 @@ Otros:
 ## Actividad 1
 - En caso de no tener una cuenta previa, registrarse en [GitHub](https://github.com/).
 - una vez registrado solicitar acceso a este repositorio.
-- una ve
-* Novel Certad @novelcertad @ncertad 
-- Solicitar @USB-EC3081-III-2019 
+- Solicitar acceso al grupo de la materia [@USB-EC3081-III-2019](https://github.com/USB-EC3081-III-2019).
+- Editar la lista a continuación agregando un enlace a su pefil de GitHub:
+  * Novel Certad [@ncertad](https://github.com/ncertad) 
+  * _Nombre y apellido_ enlace al perfil
+
