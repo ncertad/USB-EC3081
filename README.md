@@ -37,4 +37,7 @@ Otros:
 #Actividades para Septiembre - Diciembre 2019
 ## Actividad 1
 - En caso de no tener una cuenta previa, registrarse en [GitHub](https://github.com/).
+- una vez registrado solicitar acceso a este repositorio.
+- una ve
+* Novel Certad @novelcertad @ncertad 
 - Solicitar @USB-EC3081-III-2019 
