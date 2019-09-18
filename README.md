@@ -33,3 +33,8 @@ Otros:
 * [Fritzing](https://fritzing.org/home/)
 ## Material de Apoyo
 * [PIC16F877 User Manual](http://ww1.microchip.com/downloads/en/DeviceDoc/30292D.pdf)
+
+#Actividades para Septiembre - Diciembre 2019
+## Actividad 1
+- En caso de no tener una cuenta previa, registrarse en [GitHub](https://github.com/).
+- Solicitar @USB-EC3081-III-2019 
